@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hola Mundo en PHP</title>
+</head>
+<body>
+
+<?php
+// Definir el nombre del estudiante
+$nombre = "Javier";
+
+// Mostrar el mensaje "Hola mundo, soy Javier"
+echo "<h1>Hola mundo, soy $nombre Javier </h1>";
+?>
+echo "<img src='robot.png' '>";
+</body>
+</html>
+
+
